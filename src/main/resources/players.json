@@ -1,0 +1,19 @@
+[{
+  "firstName": "Groum",
+  "lastName": "Tesfa",
+  "playerId": 1,
+  "position": "Defence"
+},
+  {
+    "firstName": "Frey",
+    "lastName": "Tesfa",
+    "playerId": 10,
+    "position": "Defence"
+  },
+  {
+    "firstName": "bk",
+    "lastName": "Tesfa",
+    "playerId": 3,
+    "position": "Defence"
+  }
+]

@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Configuration;
 
 @SpringBootApplication
 @Configuration
-@ComponentScan(basePackages ="com.Cobalt.demoMicroservice")
+@ComponentScan(basePackages ="com.cobaltdemo.demo")
 public class MicroserviceApplication {
 
 	public static void main(String[] args) {
